@@ -8,7 +8,7 @@
 
 ## 🎥 Demo
 
-**[Insert Link to Live Vercel/Netlify Demo Here]**
+**![Demo](./demo.gif)**
 
 *(Optional: Add a GIF here of the visualizer running)*
 
@@ -74,14 +74,14 @@ Make sure you have Node.js installed.
 
 4. Open ```http://localhost:5173``` in your browser.
 
-🧠 Algorithms Explained
+## 🧠 Algorithms Explained
 Dijkstra
 The classic. It spreads out in a circle (like water spilling) from the start node, guaranteeing the shortest path. It is "blind" because it searches in all directions equally.
 
 A* (A-Star)
 The smart one. It uses a heuristic function (Manhattan Distance) to estimate the distance to the goal. It prioritizes nodes that move towards the target, resulting in a much faster search (often exploring 90% fewer nodes than Dijkstra).
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
 Fork the project.
@@ -94,5 +94,5 @@ Push to the branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request.
 
-📄 License
+## 📄 License
 Distributed under the MIT License. See LICENSE for more information
