@@ -8,9 +8,8 @@
 
 ## 🎥 Demo
 
-**![Demo](./demo.gif)**
+**![Demo](./Demo.gif)**
 
-*(Optional: Add a GIF here of the visualizer running)*
 
 ## 🚀 Introduction
 
